@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     template: section_hero
-    title: Tutor Center
+    title: HCCC Tutor Center
     section_id: hero
     subtitle: |
       ### STEM division
