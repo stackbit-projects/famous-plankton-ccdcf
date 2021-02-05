@@ -5,7 +5,8 @@ sections:
     template: section_hero
     title: Tutor Center
     section_id: hero
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### STEM division
     image: /images/seal2.jpg
     image_alt: Author avatar
   - type: section_content
