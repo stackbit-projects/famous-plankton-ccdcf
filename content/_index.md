@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     template: section_hero
-    title: This is a hero headline.
+    title: Tutor Center
     section_id: hero
     subtitle: '### This is a super-cool hero subhead.'
     image: /images/seal2.jpg
