@@ -6,7 +6,7 @@ sections:
     title: HCCC Tutor Center
     section_id: hero
     subtitle: |
-      ### STEM division
+      ### STEM Division
     image: /images/seal2.jpg
     image_alt: Author avatar
   - type: section_content
