@@ -5,7 +5,7 @@ params:
   header:
     type: header
     template: header
-    title: HCCC Tutor Center
+    title: Hudson County Community College
     has_nav: true
     nav_links:
       - type: action
