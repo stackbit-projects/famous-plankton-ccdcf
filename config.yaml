@@ -22,7 +22,7 @@ params:
         url: /elements/
       - type: action
         template: action
-        label: Ipsum
+        label: Contact
         url: /ipsum/
   footer:
     type: footer
